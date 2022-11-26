@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Giant panda gifted to Taiwan by China dies",
+      "description": "Tuan Tuan was given to Taipei zoo in 2008 before relations between China and Taiwan deteriorated.",
+      "url": "http://www.bbc.co.uk/news/world-asia-63688385",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D228/production/_127700835_3e7c7d27496acf974e3e3a30157a1813a4df5f19.jpg",
+      "publishedAt": "2022-11-20T05:22:28.7287857Z",
+      "content": "A giant panda gifted by China to Taiwan in 2008 has died after a period of ill-health, Taipei Zoo has said. \r\nTuan Tuan and his breeding partner Yuan Yuan were given to Taiwan when relations with Chi… [+1593 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "Controversial World Cup set to get under way",
+      "description": "After 12 years of questions, criticisms and conjecture, the Fifa World Cup in Qatar will finally get under way on Sunday.",
+      "url": "http://www.bbc.co.uk/sport/football/63670102",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/113E3/production/_127672607_qatar-fans.jpg",
+      "publishedAt": "2022-11-20T05:22:27.5259596Z",
+      "content": "Argentina shirts are by far the most popular choice of kit on show in Doha\r\n<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BBC TV… [+9387 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Equatorial Guinea's Obiang: World's longest-serving president eyes re-election",
+      "description": "The 80-year-old president of Equatorial Guinea, Teodoro Obiang Nguema, has been in power for 43 years.",
+      "url": "http://www.bbc.co.uk/news/world-africa-63674539",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80C7/production/_127676923_gettyimages-1181874775.jpg",
+      "publishedAt": "2022-11-20T03:37:22.3384643Z",
+      "content": "The world's longest-serving president is seeking re-election to continue his 43-year rule in Equatorial Guinea.\r\nPresident Teodoro Obiang Nguema Mbasogo, 80, has presided over a regime marked by alle… [+3814 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Musk reinstates Trump's Twitter account",
+      "description": "The ban against the ex-US president is lifted, but Trump says he sees no reason to return.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63692369",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8DF4/production/_127704363_06158363-78bb-478a-aed9-f54fdc50d462.jpg",
+      "publishedAt": "2022-11-20T03:22:20.3691969Z",
+      "content": "Twitter's new owner Elon Musk has said Donald Trump's account has been reinstated after running a poll in which users narrowly backed the move.\r\n\"The people have spoken,\" tweeted Mr Musk, saying that… [+1705 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "COP27: Historic deal on climate costs agreed at UN summit",
+      "description": "Countries meeting in Egypt strike a landmark deal to establish a fund to help nations worst-hit by climate change.",
+      "url": "http://www.bbc.co.uk/news/live/science-environment-63656412",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2022-11-20T02:37:28.2448947Z",
+      "content": "While the number of fossil fuel lobbyists at COP27 increased by 25% this year, theres another notable presence: climate deniers. \r\nThe Washington-based think tank, Committee for a Constructive\r\nTomor… [+1210 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC Sport",
+      "title": "France striker Benzema out of Qatar World Cup",
+      "description": "France striker Karim Benzema is out of the 2022 World Cup in Qatar after he sustained a thigh injury in training.",
+      "url": "http://www.bbc.co.uk/sport/football/63691796",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/B496/production/_127703264_karimbenzema.jpg",
+      "publishedAt": "2022-11-20T01:37:26.1826466Z",
+      "content": "Karim Benzema (left) suffered a thigh injury during France training on Saturday\r\n<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on B… [+2241 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Safe haven laws and the surrendered infants in US",
+      "description": "Michelle told no-one she was pregnant. So when she gave birth by the roadside, she did something she came to regret.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63387906",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/159E2/production/_127464588_michelleandbaby-2.jpg",
+      "publishedAt": "2022-11-20T00:22:18.026932Z",
+      "content": "The ending of the constitutional right to abortion played a significant role in the outcome of the US midterm elections. One argument used as the Supreme Court considered overturning Roe v Wade in th… [+7892 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Artemis: Nasa expects humans to live on Moon this decade",
+      "description": "A senior official tells the BBC the Artemis missions will lead to astronauts living on the lunar surface.",
+      "url": "http://www.bbc.co.uk/news/uk-63688229",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C2EC/production/_127700994_orion.jpg",
+      "publishedAt": "2022-11-19T15:52:24.4951031Z",
+      "content": "Humans could stay on the Moon for lengthy periods during this decade, a Nasa official has told the BBC.\r\nHoward Hu, who leads the Orion lunar spacecraft programme for the agency, said habitats would … [+3776 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: Rishi Sunak visits President Zelensky in Kyiv",
+      "description": "The British prime minister is making his first visit to Ukraine since taking office.",
+      "url": "http://www.bbc.co.uk/news/world-europe-63687045",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-11-19T13:52:21.5102631Z",
+      "content": "The meeting was held to \"confirm continued UK support\" for Ukraine in the ongoing war against Russia, a No 10 spokesperson said."
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US midterms: Lauren Boebert's Democratic challenger concedes",
+      "description": "The Republican firebrand faced an unexpectedly close race in her bid for re-election in Colorado.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-63683194",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34ED/production/_127694531_boebs.jpg",
+      "publishedAt": "2022-11-18T21:07:19.9969676Z",
+      "content": "Colorado congresswoman Lauren Boebert is likely headed back to Washington after her Democratic challenger called her to concede the race on Friday. \r\nThe surprisingly tight House race is still expect… [+2376 chars]"
+    }
+  ]
+}
