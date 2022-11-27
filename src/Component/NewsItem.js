@@ -3,11 +3,25 @@ import React, { Component } from "react";
 
 export default class Newstem extends Component {
   render() {
-    let { title, description, ImageUrl, newUrl,publishedAt,author,source } = this.props;
+    let { title, description, ImageUrl, newUrl, publishedAt, author, source } =
+      this.props;
 
     return (
       <div>
         <div className="card">
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "flex-end",
+              position: "absolute",
+              right: "0",
+            }}
+          >
+            <span className=" badge rounded-pill bg-danger">
+              {source}
+              <span className="visually-hidden">unread messages</span>
+            </span>
+          </div>
           <img
             src={
               ImageUrl == null
@@ -18,20 +32,20 @@ export default class Newstem extends Component {
             alt="..."
           />
           <div className="card-body">
-          <span class="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={{left: '90%',
-   z_index: '1'
-   
-    }}>
-   {source}
-    <span class="visually-hidden">unread messages</span>
-  </span>
             <h5 className="card-title">{title}</h5>
             <p className="card-text">{description}</p>
-            <p class="card-text">
-              <small class="text-muted">By {author} on  {publishedAt}</small>
+            <p className="card-text">
+              <small className="text-muted">
+                By {author} on {publishedAt}
+              </small>
             </p>
 
-            <a href={newUrl} target="_blank"  rel="noreferrer" className="btn btn-dark">
+            <a
+              href={newUrl}
+              target="_blank"
+              rel="noreferrer"
+              className="btn btn-dark"
+            >
               Read More
             </a>
           </div>
