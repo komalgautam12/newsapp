@@ -10,6 +10,7 @@ import {
 import LoadingBar from 'react-top-loading-bar'
 import React, { Component } from "react";
 import Navbar from "./Component/Navbar";
+
 import News from "./Component/News";
 
 
@@ -46,8 +47,9 @@ this.setState({progress: progress})
         </Routes>
 
 
-        {/* <News key=''  NewsApi={this.NewsApi} pageSize={5}  setProgress={this.setProgress} country='in' category='science'/> */}
-        
+
+
+
         </Router>
       </>
     );

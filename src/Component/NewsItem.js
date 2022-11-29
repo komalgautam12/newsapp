@@ -1,10 +1,10 @@
-import React, { Component } from "react";
-// import { Link } from "react-router-dom";
+import React from "react";
 
-export default class Newstem extends Component {
-  render() {
-    let { title, description, ImageUrl, newUrl, publishedAt, author, source } =
-      this.props;
+
+const Newstem =(props)=>{
+
+    // let { title, description, ImageUrl, newUrl, publishedAt, author, source } =
+    //   props;
 
     return (
       <div>
@@ -18,30 +18,30 @@ export default class Newstem extends Component {
             }}
           >
             <span className=" badge rounded-pill bg-danger">
-              {source}
+              {props.source}
               <span className="visually-hidden">unread messages</span>
             </span>
           </div>
           <img
             src={
-              ImageUrl == null
+              props.imageUrl == null
                 ? "https://images.nintendolife.com/c098bb8bae970/1280x720.jpg"
-                : ImageUrl
+                : props.imageUrl
             }
             className="card-img-top"
             alt="..."
           />
           <div className="card-body">
-            <h5 className="card-title">{title}</h5>
-            <p className="card-text">{description}</p>
+            <h5 className="card-title">{props.title}</h5>
+            <p className="card-text">{props.description}</p>
             <p className="card-text">
               <small className="text-muted">
-                By {author} on {publishedAt}
+                By {props.author} on {props.publishedAt}
               </small>
             </p>
 
             <a
-              href={newUrl}
+              href={props.newUrl}
               target="_blank"
               rel="noreferrer"
               className="btn btn-dark"
@@ -53,4 +53,5 @@ export default class Newstem extends Component {
       </div>
     );
   }
-}
+
+export default Newstem;
